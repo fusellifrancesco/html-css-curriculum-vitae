@@ -19,3 +19,7 @@ h2 {
 .bordoinferiore {
     border-bottom: 3px solid goldenrod;
 }
+
+h6 {
+    text-align: center;
+}
