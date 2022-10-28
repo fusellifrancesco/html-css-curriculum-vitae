@@ -23,3 +23,8 @@ h2 {
 h6 {
     text-align: center;
 }
+
+body {
+    width: 1000px;
+    margin: auto;
+}
